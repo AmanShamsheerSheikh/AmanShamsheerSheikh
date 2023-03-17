@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sheikh</h1>
-<h3 align="center">I am an Android Developer and a AI Enthusiast, I have been working on Android Applications and have created many apps using Java and Kotlin. I have been working as a member of Team VCET SOLECTHON where I am an active member of AUTONOMOUS Subsystem in which we work towards developing an Autonomous vehicle in which I have been working in the Path Plan, Localization and Control Modules.</h3>
+<h3 align="justify">I am an Android Developer and a AI Enthusiast, I have been working on Android Applications and have created many apps using Java and Kotlin. I have been working as a member of Team VCET SOLECTHON where I am an active member of AUTONOMOUS Subsystem in which we work towards developing an Autonomous vehicle in which I have been working in the Path Plan, Localization and Control Modules.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanshamsheersheikh&label=Profile%20views&color=0e75b6&style=flat" alt="amanshamsheersheikh" /> </p>
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aman-sheikh-8966ab236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aman Sheikh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amansheikh2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amansheikh2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Aman Sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman sheikh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sheikhaman306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman sheikh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sheikhaman306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikhaman306" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sheikhaman306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sheikhaman306" height="30" width="40" /></a>
 </p>
