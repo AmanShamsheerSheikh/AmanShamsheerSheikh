@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sheikh</h1>
-<h3 align="justify">I am an Android Developer and a AI Enthusiast, I have been working on Android Applications and have created many apps using Java and Kotlin. I have been working as a member of Team VCET SOLECTHON where I am an active member of AUTONOMOUS Subsystem in which we work towards developing an Autonomous vehicle in which I have been working in the Path Plan, Localization and Control Modules.</h3>
+<h3 align="justify">I am an Android Developer,Web Developer and a AI Enthusiast, I have been working on Android Applications and have created many apps using Java and Kotlin I also have developed various websites as personal projects. I have been working as a member of Team VCET SOLECTHON where I am an active member of AUTONOMOUS Subsystem in which we work towards developing an Autonomous vehicle in which I have been working in the Path Plan, Localization and Control Modules.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanshamsheersheikh&label=Profile%20views&color=0e75b6&style=flat" alt="amanshamsheersheikh" /> </p>
 
