@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanshamsheersheikh&label=Profile%20views&color=0e75b6&style=flat" alt="amanshamsheersheikh" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **3D Object Detection**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **NLP**
 
