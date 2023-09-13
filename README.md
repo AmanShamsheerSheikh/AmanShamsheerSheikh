@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **3D Object Detection**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **Computer Vision**
 
 - 💬 Ask me about **Android**
 
