@@ -1,97 +1,32 @@
 <h1 align="center">Hi, I'm Aman Sheikh</h1>
-
-<h3 align="center">
-Software Engineer focused on ML Systems, Distributed Training, and AI Infrastructure
-</h3>
-
-<p align="center">
-Building scalable training and inference systems for large language models.
-</p>
+<h3 align="center">Software Engineer building distributed systems for LLM training and inference</h3>
 
 ---
 
-### About Me
-
-* 💼 Software Engineer with 2+ years of backend and full-stack development experience
-* 🚀 Transitioning into ML Systems and AI Infrastructure
-* 🔥 Built **Distrain** — a distributed LLM training framework supporting DDP, FSDP (ZeRO-3), bf16 training, checkpointing, and multi-GPU benchmarking
-* ⚡ Currently building **DisServer** — a high-performance LLM inference server with continuous batching, KV-cache optimization, and GPU-aware scheduling
-* 📍 Mumbai, India
+### About
+- Software Engineer at **Zeus Learning** (backend/full-stack, 2+ years)
+- Building distributed training and inference infrastructure — Kafka, Redis, Postgres, vLLM, Kubernetes
+- 📍 Mumbai, India &nbsp;|&nbsp; 📫 sheikhaman306@gmail.com
 
 ---
 
-### Current Focus
+### Projects
 
-* Distributed Training (DDP, FSDP, ZeRO)
-* LLM Inference Systems
-* GPU Communication & NCCL
-* Model Parallelism
-* AI Infrastructure
+**[DisServe](https://github.com/AmanShamsheerSheikh/DistServe)** — Distributed document-translation pipeline. FastAPI → Kafka fan-out → self-hosted vLLM on Modal → atomic Redis fan-in join → Postgres-backed reassembly.
 
----
+**[AnyChat](https://github.com/AmanShamsheerSheikh/AnyChat)** — Multi-tenant LLM chat gateway with API-key auth, atomic Redis rate limiting, SSE streaming, and Kubernetes deployment (Deployment/Service/ConfigMap/HPA).
 
-### Recent Engineering Work
-
-#### Distrain — Distributed LLM Training Framework
-
-* Implemented Distributed Data Parallel (DDP)
-* Implemented Fully Sharded Data Parallel (FSDP / ZeRO-3)
-* Built distributed checkpoint save/resume support
-* Benchmarked GPT2-XL and Mistral 7B across multiple GPUs
-* Measured throughput, memory usage, scaling efficiency, and MFU
-* Debugged NCCL collective hangs in multi-GPU environments
-
-#### DisServer (In Progress)
-
-* Continuous batching
-* KV-cache management
-* GPU-aware scheduling
-* Request queueing
-* High-throughput inference serving
+**[Distrain](https://github.com/AmanShamsheerSheikh/Multi-GPU-training)** — Distributed training benchmarking framework (DDP, FSDP/ZeRO-3, bf16). 98.5% DDP scaling efficiency at 4x A100; diagnosed and fixed an NCCL P2P transport deadlock.
 
 ---
 
 ### Tech Stack
-
-#### ML Systems
-
-* PyTorch
-* DistributedDataParallel (DDP)
-* FullyShardedDataParallel (FSDP)
-* NCCL
-* Hugging Face
-* Weights & Biases
-
-#### Backend & Infrastructure
-
-* Python
-* FastAPI
-* Docker
-* Linux
-* Redis
-* PostgreSQL
-* Kafka
-
-#### Software Engineering
-
-* C#
-* .NET
-* TypeScript
-* Angular
-* React
+**Backend & Infra:** Python, FastAPI, Kafka, Redis, PostgreSQL, Docker, Kubernetes, Modal <br>
+**ML Systems:** PyTorch, vLLM, DDP, FSDP, NCCL, Hugging Face <br>
+**Also:** C#, .NET, Angular, React
 
 ---
 
-### Connect
-
-<p align="left">
 <a href="https://linkedin.com/in/aman-sheikh-8966ab236" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38" />
 </a>
-</p>
-
----
-
-### Current Goal
-
-Build production-grade training and inference systems for large-scale AI models and transition into an ML Systems Engineering role.
