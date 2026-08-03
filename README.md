@@ -12,7 +12,7 @@
 
 ### Projects
 
-**[DisServe](https://github.com/AmanShamsheerSheikh/DistServe)** — Distributed document-translation pipeline. FastAPI → Kafka fan-out → self-hosted vLLM on Modal → atomic Redis fan-in join → Postgres-backed reassembly.
+**[DistServe](https://github.com/AmanShamsheerSheikh/DistServe)** — Distributed document-translation pipeline. FastAPI → Kafka fan-out → self-hosted vLLM on Modal → atomic Redis fan-in join → Postgres-backed reassembly.
 
 **[AnyChat](https://github.com/AmanShamsheerSheikh/AnyChat)** — Multi-tenant LLM chat gateway with API-key auth, atomic Redis rate limiting, SSE streaming, and Kubernetes deployment (Deployment/Service/ConfigMap/HPA).
 
